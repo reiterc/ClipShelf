@@ -1,4 +1,4 @@
-### Coming Soon!
+# Coming Soon!
 
 ## About
 
@@ -6,7 +6,7 @@
 
 ## How to Use
 
-### Contributing - Developer guide
+# Contributing - Developer guide
 
 ## Build
 
